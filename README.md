@@ -1,4 +1,4 @@
-# genetic_sukoku
+# genetic_sudoku
 
 Simple project on creating a `genetic algorithm` to solve Sudoku Puzzles.
 
